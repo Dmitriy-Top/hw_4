@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<purchases>
+<purchase id="0">
+<date>1466625600000</date>
+<name>Курица</name>
+<type>Food</type>
+<price>23</price>
+</purchase>
+<purchase id="1">
+<date>1471204800000</date>
+<name>Картошка</name>
+<type>Food</type>
+<price>35</price>
+</purchase>
+<purchase id="2">
+<date>1477166400000</date>
+<name>Лук</name>
+<type>Food</type>
+<price>65</price>
+</purchase>
+<purchase id="3">
+<date>1482955200000</date>
+<name>Марковь</name>
+<type>Food</type>
+<price>12</price>
+</purchase>
+<purchase id="4">
+<date>1479313210070</date>
+<name>картошка</name>
+<type>Food</type>
+<price>15</price>
+</purchase>
+<purchase id="5">
+<date>1479368422010</date>
+<name>Пена для бритья</name>
+<type>BathroomItems</type>
+<price>68</price>
+</purchase>
+</purchases>
